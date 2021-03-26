@@ -4,11 +4,12 @@ A simple app to allow watching youtube together
 ## Installation
 
 ```bash
-git clone https://github.com/zillding/yt-together.git
+git clone https://github.com/moyennoe/watch_together
 cd yt-together
 npm install
 npm start
-open http://localhost:3000
+in src\app\config.js, put your youtubev3 api key. you can find your api here: https://console.cloud.google.com/apis/
+open http://localhost:90
 ```
 
 ## Features
